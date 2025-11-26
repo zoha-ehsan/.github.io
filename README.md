@@ -8,7 +8,8 @@ Turning raw data into **actionable business insights**
 
 📧 zoha.ehsan0@gmail.com • [LinkedIn](https://www.linkedin.com/in/zoha-ehsan) • [Resume](https://zoha-ehsan.github.io/resume.pdf)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Open+to+Work+%7C+Data+Analyst+%7C+Business+Intelligence;Available+immediately+for+full-time+roles!" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Open+to+Work+%7C+Data+Analyst+%7C+Business+Intelligence;Available+immediately+for+full-time+roles!" />
 
 </div>
 
