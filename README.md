@@ -35,7 +35,7 @@ Ready to deliver immediate impact as a **full-time Data Analyst or Business Inte
 [![SPSS](https://img.shields.io/badge/SPSS-0B1E6F?style=for-the-badge&logo=ibm&logoColor=white)]()
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![Minitab](https://img.shields.io/badge/Minitab-8CBE46?style=for-the-badge&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![EViews](https://img.shields.io/badge/EViews-003087?style=for-the-badge&logoColor=white)]()
 
 </div>
 
