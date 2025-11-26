@@ -1,28 +1,27 @@
 <div align="center">
 
 # Hi, I'm Zoha Ehsan 👋  
-**Final-Year BS (Hons) Statistics | Data Analyst**
+**Final-Year BS (Hons) Statistics → Ready for Full-Time Roles**
 
 Turning raw data into **actionable business insights**  
 **Python • SQL • Power BI • Excel • R • SPSS • EViews • Minitab**
 
 📧 zoha.ehsan0@gmail.com • [LinkedIn](https://www.linkedin.com/in/zoha-ehsan) • [Resume](https://zoha-ehsan.github.io/resume.pdf)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Actively+seeking+Data+Analyst+%2F+BI+roles;Open+to+full-time+%26+internships!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Open+to+Work+%7C+Data+Analyst+%7C+Business+Intelligence;Available+immediately+for+full-time+roles!" />
 
 </div>
 
 ### About Me
-Final-year BS (Hons) Statistics student skilled in **Python • SQL • Power BI • Excel • R • SPSS • EViews • Minitab**.  
-Experienced in survey analysis, logistic regression, interactive dashboards, and market trend forecasting.  
-Passionate about delivering clean, actionable insights that drive real business results.  
-**Actively seeking Data Analyst / Business Intelligence opportunities.**
+Final-year BS (Hons) Statistics student with **3 completed professional internships** in data analysis and research.  
+Skilled in **Python • SQL • Power BI • Excel • R • SPSS • EViews • Minitab** and experienced in survey analysis, logistic regression, predictive modeling, and interactive dashboards.  
+Ready to deliver immediate impact as a **full-time Data Analyst or Business Intelligence professional**.
 
 ### Featured Projects
 | Project                          | Description                                              | Tools                     | Link                                      |
 |----------------------------------|----------------------------------------------------------|---------------------------|-------------------------------------------|
 | E-Commerce Sales Analysis        | Solved 15 real business questions on revenue & trends    | Python • SQLite           | [View →](https://github.com/zoha-ehsan/Ecommerce-Analysis) |
-| Telco Customer Churn Prediction  | Predictive model to reduce customer churn                 | Python • Pandas • Sklearn | [View →](https://github.com/zoha-ehsan/Telco-Customer-Churn-EDA) |
+| Telco Customer Churn Prediction  | Predictive model to reduce customer churn                | Python • Pandas • Sklearn | [View →](https://github.com/zoha-ehsan/Telco-Customer-Churn-EDA) |
 
 ### Skills
 <div align="center">
@@ -38,10 +37,10 @@ Passionate about delivering clean, actionable insights that drive real business 
 </div>
 
 ### Certifications & Achievements
-- Introductory Data Management & Analysis using SPSS – GC University Lahore (2024)
 - Google Advanced Data Analytics Professional Certificate (2025)
 - Deloitte Australia – Data Analytics Job Simulation, Forage (2025)
 - Tata – GenAI-Powered Data Analytics Job Simulation, Forage (2025)
+- Introductory Data Management & Analysis using SPSS – GC University Lahore (2024)
 - Certificate of Appreciation – Character Building Society, GCU Lahore (2025)
 
 <div align="center">
